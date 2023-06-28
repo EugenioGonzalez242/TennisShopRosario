@@ -1,0 +1,5 @@
+git innit
+git status                 para ver si se modifico o se agrego algo
+git add .                  preparar archivos
+git commit "comentario"    enviar arichivos 
+git log --online           muestra los commit que hiciste 

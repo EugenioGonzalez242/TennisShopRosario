@@ -1,7 +1,0 @@
- <section class="contenedor">
-            <h1>NUESTRAS LINEAS DE RAQUETAS</h1>
-            <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam sunt est, voluptatibus debitis delectus odit a nam explicabo, laudantium soluta quibusdam atque, minus vero impedit? Animi rerum inventore asperiores dignissimos.</p>
-        </section>
-        <section>
-            <h2>PRODUCTOS PRINCIPALES</h2>
-        </section>
