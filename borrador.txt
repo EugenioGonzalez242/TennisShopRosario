@@ -1,5 +1,7 @@
 git innit
-git status                 para ver si se modifico o se agrego algo
-git add .                  preparar archivos
-git commit "comentario"    enviar arichivos 
-git log --online           muestra los commit que hiciste 
+git status                     para ver si se modifico o se agrego algo
+git add .                      preparar archivos
+git commit -m "comentario"     enviar arichivos 
+git log --online               muestra los commit que hiciste 
+git push origin master         envia archivos hacia git gub
+git pull master                trae archivos de creados en git gub a git
