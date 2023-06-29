@@ -49,7 +49,7 @@ form label{
     height: auto;
     margin: 40px auto;
     padding: 10px;
-    border: solid 5px blue;
+    border: solid 5px rgb(40, 40, 174);
 }
 .nav-item{
     font-size: 1.4em;
