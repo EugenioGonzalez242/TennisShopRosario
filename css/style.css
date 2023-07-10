@@ -35,6 +35,10 @@ h3{
 h4{
     font-size: 3.4em;
 }
+h5{
+    font-size: 1.6em;
+    color: rgb(19, 10, 7);
+}
 form label{
     color: rgb(14, 14, 14);
     font-size: 1.2em;
