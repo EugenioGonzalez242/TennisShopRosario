@@ -22,11 +22,11 @@ header img {
     width: 100%;    
 }
 h1{
-    color: rgb(19, 10, 7);
+    color: rgb(33, 13, 13);
     font-size: 3.8em;
 }
 h2{
-    color:rgb(19, 10, 7);
+    color:rgb(33, 13, 13);
     font-size: 3.4em;
 }
 h3{
@@ -37,10 +37,10 @@ h4{
 }
 h5{
     font-size: 1.6em;
-    color: rgb(19, 10, 7);
+    color: rgb(33, 13, 13);
 }
 form label{
-    color: rgb(14, 14, 14);
+    color: rgb(33, 13, 13);
     font-size: 1.2em;
     line-height: 2em;
     font-weight: 30em; 
