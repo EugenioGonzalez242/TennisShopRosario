@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2? family= Roboto:wght@300;500 & display=swap");
+* {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+p {
+  color: rgb(33, 13, 13);
+  font-weight: 30em;
+  font-size: 2em;
+  line-height: 1.6em;
+}
+
+header img {
+  width: 100%;
+}
+
+h1 {
+  color: rgb(33, 13, 13);
+  font-size: 3.8em;
+}
+
+h2 {
+  color: rgb(33, 13, 13);
+  font-size: 3.4em;
+}
+
+h3 {
+  font-size: 2.4em;
+}
+
+h4 {
+  font-size: 3.4em;
+}
+
+h5 {
+  font-size: 1.6em;
+  color: rgb(33, 13, 13);
+}
+
+.bg-blue {
+  background-color: rgb(19, 19, 104);
+  color: rgb(246, 242, 242);
+}
+
+form label {
+  color: rgb(33, 13, 13);
+  font-size: 1.2em;
+  line-height: 2em;
+  font-weight: 30em;
+  display: block;
+}
+
+.contenedor {
+  background-color: rgb(188, 188, 169);
+  width: 100%;
+  height: auto;
+  margin: 40px auto;
+  padding: 10px;
+  border: solid 5px rgb(19, 19, 104);
+}
+
+.botonera {
+  background-color: rgb(188, 188, 169);
+  padding: 6px 30px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.botonera ul li {
+  font-size: 1.6em;
+  text-decoration: none;
+}
+.botonera ul li a {
+  color: rgb(33, 13, 13);
+}
+.botonera ul li a:hover {
+  color: rgb(246, 242, 242);
+}
+
+.card-title {
+  color: rgb(33, 13, 13);
+  font-weight: 30em;
+  font-size: 2.4em;
+  line-height: 2em;
+}
+
+footer {
+  background-color: rgb(188, 188, 169);
+  padding: 6px 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+footer svg {
+  margin: 0 auto;
+  width: 50px;
+  height: 50px;
+  fill: rgb(19, 19, 104);
+}
+footer a {
+  text-decoration: none;
+}
+footer ul {
+  list-style: none;
+}
+footer ul li a {
+  color: rgb(33, 13, 13);
+  font-size: 1.2em;
+  text-decoration: none;
+}
+footer ul a:hover {
+  color: rgb(246, 242, 242);
+}
+
+/*# sourceMappingURL=main.css.map */

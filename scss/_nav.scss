@@ -1,0 +1,19 @@
+.botonera{
+    background-color: $mainColor;
+    padding: 6px 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    ul li{
+        font-size: $textMd;
+        text-decoration: none;
+            a{
+                color: $keyColor;
+                &:hover{
+                    color: $white
+                }  
+            }   
+        }    
+
+}

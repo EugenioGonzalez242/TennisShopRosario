@@ -1,0 +1,59 @@
+*{ 
+    font-family: $mainFont;
+    padding: 0;
+    margin: 0;
+}
+html{
+    font-size: 62.5%;
+}
+body{   
+    background-repeat:repeat;
+    background-size:cover;
+    background-attachment:scroll;
+}
+p{
+    color: $keyColor;
+    font-weight: $textLight;
+    font-size: $textLg;
+    line-height: $textMd;
+}
+header img {
+    width: 100%;    
+}
+h1{
+    color: $keyColor;
+    font-size: $textXxxl;
+}
+h2{
+    color: $keyColor;
+    font-size: $textXxl;
+}
+h3{
+    font-size: $textXl;   
+}
+h4{
+    font-size: $textXxl;
+}
+h5{
+    font-size: $textMd;
+    color: $keyColor;
+}
+.bg-blue{
+    background-color: $secondaryColor;
+    color: $white;
+}
+form label{
+    color: $keyColor;
+    font-size: $textSm;
+    line-height: $textLg;
+    font-weight: $textLight; 
+    display: block
+}
+.contenedor{
+    background-color: $mainColor;
+    width: 100%;
+    height: auto;
+    margin: 40px auto;
+    padding: 10px;
+    border: solid 5px $secondaryColor;
+}

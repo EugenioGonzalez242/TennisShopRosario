@@ -1,0 +1,19 @@
+{
+  "name": "eugenio",
+  "version": "1.0.0",
+  "description": "https://github.com/EugenioGonzalez242/TennisShopRosario.git",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+		"sass:watch": "sass --watch scss/main.scss  css/main.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.63.6"
+  }
+}
