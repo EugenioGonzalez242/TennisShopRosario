@@ -1,0 +1,14 @@
+.contenedor{
+    background-color: $containerColor;
+    width: 100%;
+    height: auto;
+    margin: 40px auto;
+    padding: 10px;
+    border: solid 5px $secondaryColor;
+}
+
+.contenedor-two{
+    @extend .contenedor;
+    background-color: $tertiaryColor;
+    border-radius: 4px;
+}

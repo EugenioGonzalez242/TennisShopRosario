@@ -11,12 +11,6 @@ body{
     background-size:cover;
     background-attachment:scroll;
 }
-p{
-    color: $keyColor;
-    font-weight: $textLight;
-    font-size: $textLg;
-    line-height: $textMd;
-}
 header img {
     width: 100%;    
 }
@@ -47,13 +41,5 @@ form label{
     font-size: $textSm;
     line-height: $textLg;
     font-weight: $textLight; 
-    display: block
-}
-.contenedor{
-    background-color: $mainColor;
-    width: 100%;
-    height: auto;
-    margin: 40px auto;
-    padding: 10px;
-    border: solid 5px $secondaryColor;
+    display: block 
 }

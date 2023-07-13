@@ -15,13 +15,6 @@ body {
   background-attachment: scroll;
 }
 
-p {
-  color: rgb(33, 13, 13);
-  font-weight: 30em;
-  font-size: 2em;
-  line-height: 1.6em;
-}
-
 header img {
   width: 100%;
 }
@@ -62,15 +55,6 @@ form label {
   display: block;
 }
 
-.contenedor {
-  background-color: rgb(188, 188, 169);
-  width: 100%;
-  height: auto;
-  margin: 40px auto;
-  padding: 10px;
-  border: solid 5px rgb(19, 19, 104);
-}
-
 .botonera {
   background-color: rgb(188, 188, 169);
   padding: 6px 30px;
@@ -95,6 +79,36 @@ form label {
   font-weight: 30em;
   font-size: 2.4em;
   line-height: 2em;
+}
+
+.contenedor, .contenedor-two {
+  background-color: rgb(247, 235, 235);
+  width: 100%;
+  height: auto;
+  margin: 40px auto;
+  padding: 10px;
+  border: solid 5px rgb(19, 19, 104);
+}
+
+.contenedor-two {
+  background-color: rgb(171, 212, 213);
+  border-radius: 4px;
+}
+
+.text-principal {
+  font-size: 2em;
+  line-height: 1.6em;
+  font-weight: 30em;
+  color: rgb(33, 13, 13);
+  text-align: justify;
+}
+
+.text-nosotros {
+  font-size: 2.4em;
+  line-height: 1.6em;
+  font-weight: 60em;
+  color: rgb(19, 19, 104);
+  text-align: justify;
 }
 
 footer {

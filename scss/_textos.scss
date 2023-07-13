@@ -1,0 +1,14 @@
+@mixin textos($size, $line, $weight, $color){
+    font-size: $size;
+    line-height: $line;
+    font-weight: $weight;
+    color: $color;
+    text-align:justify;
+}
+
+.text-principal{
+    @include textos($textLg,$textMd,$textLight,$keyColor)
+}
+.text-nosotros{
+    @include textos($textXl,$textMd,$textRegular,$secondaryColor)
+}
