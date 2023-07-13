@@ -7,8 +7,11 @@
 }
 
 .text-principal{
-    @include textos($textLg,$textMd,$textLight,$keyColor)
+    @include textos($textLg,$textTwo,$textLight,$keyColor)
 }
 .text-nosotros{
-    @include textos($textXl,$textMd,$textRegular,$secondaryColor)
+    @include textos($textXl,$textOne,$textRegular,$secondaryColor)
+}
+.card-text{
+    @include textos($textSm,$textOne,$textRegular,$keyColor)
 }

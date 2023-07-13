@@ -34,17 +34,7 @@ h3 {
 }
 
 h4 {
-  font-size: 3.4em;
-}
-
-h5 {
   font-size: 1.6em;
-  color: rgb(33, 13, 13);
-}
-
-.bg-blue {
-  background-color: rgb(19, 19, 104);
-  color: rgb(246, 242, 242);
 }
 
 form label {
@@ -81,6 +71,12 @@ form label {
   line-height: 2em;
 }
 
+.btn {
+  background-color: rgb(19, 19, 104);
+  color: rgb(246, 242, 242);
+  border-radius: 20px;
+}
+
 .contenedor, .contenedor-two {
   background-color: rgb(247, 235, 235);
   width: 100%;
@@ -97,7 +93,7 @@ form label {
 
 .text-principal {
   font-size: 2em;
-  line-height: 1.6em;
+  line-height: 2em;
   font-weight: 30em;
   color: rgb(33, 13, 13);
   text-align: justify;
@@ -105,9 +101,17 @@ form label {
 
 .text-nosotros {
   font-size: 2.4em;
-  line-height: 1.6em;
+  line-height: 1.4em;
   font-weight: 60em;
   color: rgb(19, 19, 104);
+  text-align: justify;
+}
+
+.card-text {
+  font-size: 1.2em;
+  line-height: 1.4em;
+  font-weight: 60em;
+  color: rgb(33, 13, 13);
   text-align: justify;
 }
 
