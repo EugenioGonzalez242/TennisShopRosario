@@ -143,15 +143,11 @@ form label {
 
 .error-container {
   text-align: center;
-  color: white;
 }
 
 h1 {
   font-size: 3.8em;
-}
-
-p {
-  font-size: 3.8em;
+  color: rgb(246, 242, 242);
 }
 
 .ver {
@@ -160,7 +156,7 @@ p {
   font-size: 2em;
   line-height: 2em;
   font-weight: 30em;
-  color: rgb(33, 13, 13);
+  color: rgb(43, 43, 237);
   text-decoration-line: underline;
   height: 50px;
 }

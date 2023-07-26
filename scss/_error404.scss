@@ -13,13 +13,10 @@
 }
 .error-container{
     text-align: center;
-    color: white;
 }
 h1{
     font-size: $textXxxl;
-}
-p{ 
-    font-size: $textXxxl;
+    color: $white;
 }
 .ver{
     display: flex;
@@ -27,7 +24,7 @@ p{
     font-size: $textLg;
     line-height: $textLg;
     font-weight: $textLight;
-    color: $keyColor;
+    color: $blueColor;
     text-decoration-line: underline;
     height: 50px;    
 }
