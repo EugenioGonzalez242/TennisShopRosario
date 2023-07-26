@@ -35,3 +35,13 @@ form label{
     font-weight: $textLight; 
     display: block 
 }
+.ver{
+    display: flex;
+    justify-content: center;
+    font-size: $textLg;
+    line-height: $textLg;
+    font-weight: $textLight;
+    color: $keyColor;
+    text-decoration: none;
+    height: 50px;
+}

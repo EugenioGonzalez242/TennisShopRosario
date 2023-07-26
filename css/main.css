@@ -45,6 +45,17 @@ form label {
   display: block;
 }
 
+.ver {
+  display: flex;
+  justify-content: center;
+  font-size: 2em;
+  line-height: 2em;
+  font-weight: 30em;
+  color: rgb(33, 13, 13);
+  text-decoration: none;
+  height: 50px;
+}
+
 .botonera {
   background-color: rgb(188, 188, 169);
   padding: 6px 30px;
