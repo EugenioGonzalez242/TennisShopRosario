@@ -32,8 +32,8 @@ HERRAMIENTAS UTILIZADAS EN ESTE PROYECTO
 
 A continuación de detallan los 3 links del proyecto:
 
-1-
+1- https://github.com/EugenioGonzalez242/TennisShopRosario.git - link del repositorio
 
-2-
+2- https://eugeniogonzalez242.github.io/TennisShopRosario/ - link de Github Pages
 
-3-
+3- https://tennisshoprosario.netlify.app/ - link del servidor gratuito 
