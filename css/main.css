@@ -147,10 +147,9 @@ form label {
 
 h1 {
   font-size: 3.8em;
-  color: rgb(246, 242, 242);
 }
 
-.ver {
+.ver-error {
   display: flex;
   justify-content: center;
   font-size: 2em;
